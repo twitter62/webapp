@@ -14,4 +14,3 @@ faith
 brandon
 jenny
 john
-nix
