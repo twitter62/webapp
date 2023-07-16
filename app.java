@@ -21,7 +21,5 @@ shirri
 testing
 nix
 flora
-new haha
-haha
 haha
 new haha
