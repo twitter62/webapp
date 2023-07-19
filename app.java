@@ -19,7 +19,6 @@ dad
 ndoh
 shirri
 testing
-nix
 flora
 haha
 new haha
